@@ -1,6 +1,10 @@
 # Challenge-de-Veracidad
 
+Primero de todo se leyo el Csv respectivo con el read y se uso el shape para ver el temañao de datos que se manejan
+
 ELIMINACIÓN / MODIFICACIÓN DE COLUMNAS
+
+Primero se uso el null().sum() para ver la cantidad de nulos.
 
 La columna Cargo del Orador, por ejemplo, se eliminó porque contenía una gran cantidad de valores nulos → (919).
 
