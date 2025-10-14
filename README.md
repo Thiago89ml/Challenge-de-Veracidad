@@ -54,3 +54,6 @@ ENVÍO
 Por último, se creó un archivo CSV que almacenaba los resultados generados desde el .ipynb que contenía el trabajo con los distintos archivos CSV, con el objetivo de poder subirlos al ranking.
 
 El archivo de salida se generó mediante el comando output.
+
+<img width="1133" height="293" alt="Para que lo ves Guille" src="https://github.com/user-attachments/assets/47328123-1705-4154-a161-628e0a9f19c7" />
+
