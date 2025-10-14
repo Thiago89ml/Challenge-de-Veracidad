@@ -1,6 +1,6 @@
 # Challenge-de-Veracidad
 
-Primero de todo se leyo el Csv respectivo con el read y se uso el shape para ver el temañao de datos que se manejan
+Primero de todo se leyo el Csv respectivo con el read y se uso el shape para ver el tamañao de los datos que se manejan.
 
 ELIMINACIÓN / MODIFICACIÓN DE COLUMNAS
 
